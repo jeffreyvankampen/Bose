@@ -11,4 +11,6 @@
 * [Soft data](soft-data.md)
 * [Expo werk](expo-werk/README.md)
   * [Expo werk](expo-werk/expo-werk.md)
+* [Conference S-H-O-W](conference-s-h-o-w/README.md)
+  * [Jane Pong](conference-s-h-o-w/jane-pong.md)
 
