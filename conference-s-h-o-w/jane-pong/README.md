@@ -10,5 +10,5 @@ Ik heb van deze spreker het meest geleerd omdat zij duidelijke punten verteld di
 
  
 
-![](../.gitbook/assets/schermafbeelding-2020-09-03-om-13.31.01.png)
+![](../../.gitbook/assets/schermafbeelding-2020-09-03-om-13.31.01.png)
 
