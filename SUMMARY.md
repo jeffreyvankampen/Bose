@@ -16,4 +16,6 @@
   * [Jane Pong](conference-s-h-o-w/jane-pong-1.md)
   * [Angela Morelli](conference-s-h-o-w/angela-morelli.md)
   * [Angela Morelli](conference-s-h-o-w/angela-morelli-1.md)
+  * [Lauren Klein](conference-s-h-o-w/lauren-klein.md)
+  * [Lauren Klein](conference-s-h-o-w/lauren-klein-1.md)
 

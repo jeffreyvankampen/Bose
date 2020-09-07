@@ -1,5 +1,5 @@
 ---
-description: Mijn belangrijkste opvattingen naar het luisteren naar Jane Pong
+description: Mijn belangrijkste opvattingen tijdens het luisteren naar Angela Morelli
 ---
 
 # Angela Morelli
