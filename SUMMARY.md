@@ -18,5 +18,6 @@
   * [Angela Morelli](conference-s-h-o-w/angela-morelli-1.md)
   * [Lauren Klein](conference-s-h-o-w/lauren-klein.md)
   * [Lauren Klein](conference-s-h-o-w/lauren-klein-1.md)
-* [Giorgia Lupi](giorgia-lupi.md)
+  * [Giorgia Lupi](conference-s-h-o-w/giorgia-lupi.md)
+* [Miriam Quick & Stefanie Posavec](miriam-quick-and-stefanie-posavec.md)
 
