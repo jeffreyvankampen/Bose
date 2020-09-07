@@ -19,5 +19,5 @@
   * [Lauren Klein](conference-s-h-o-w/lauren-klein.md)
   * [Lauren Klein](conference-s-h-o-w/lauren-klein-1.md)
   * [Giorgia Lupi](conference-s-h-o-w/giorgia-lupi.md)
-* [Miriam Quick & Stefanie Posavec](miriam-quick-and-stefanie-posavec.md)
+  * [Miriam Quick & Stefanie Posavec](conference-s-h-o-w/miriam-quick-and-stefanie-posavec.md)
 

@@ -10,7 +10,7 @@ De talk van Miriam Quick & Stefanie Posavec vond ik na een lange tijd pas intere
 
  
 
-![](.gitbook/assets/550x541.jpg)
+![](../.gitbook/assets/550x541.jpg)
 
 
 
