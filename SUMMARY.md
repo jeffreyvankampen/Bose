@@ -20,5 +20,6 @@
   * [Lauren Klein](conference-s-h-o-w/lauren-klein-1.md)
   * [Giorgia Lupi](conference-s-h-o-w/giorgia-lupi.md)
   * [Miriam Quick & Stefanie Posavec](conference-s-h-o-w/miriam-quick-and-stefanie-posavec.md)
-* [Lace Padilla](lace-padilla.md)
+  * [Lace Padilla](conference-s-h-o-w/lace-padilla.md)
+  * [Lace Padilla](conference-s-h-o-w/lace-padilla-1.md)
 
