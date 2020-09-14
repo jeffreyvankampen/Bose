@@ -25,5 +25,5 @@
 
 ## Datavisualisatie 2
 
-* [Untitled](datavisualisatie-2/untitled.md)
+* [Voorblad](datavisualisatie-2/untitled.md)
 
