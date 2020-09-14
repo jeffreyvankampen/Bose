@@ -35,4 +35,5 @@
 * [2. Abstraheren](2.-abstraheren.md)
 * [3. Toekennen van attributes en ordening](3.-toekennen-van-attributes-en-ordening.md)
 * [2. Abstraheren](2.-abstraheren-1.md)
+* [3. Toekennen van attributes en ordening](3.-toekennen-van-attributes-en-ordening-1.md)
 
