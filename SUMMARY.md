@@ -23,20 +23,19 @@
   * [Lace Padilla](conference-s-h-o-w/lace-padilla.md)
   * [Lace Padilla](conference-s-h-o-w/lace-padilla-1.md)
 
-## Datavisualisatie 2
+## Dataorganisatie inleiding <a id="datavisualisatie-2"></a>
 
 * [Voorblad](datavisualisatie-2/untitled.md)
 * [Introductie](datavisualisatie-2/introductie.md)
-* [1. Analyseren en Classificeren](datavisualisatie-2/1.-analyseren-en-classificeren.md)
-* [1. Ordening organisatie](datavisualisatie-2/1.-ordening-elementen/README.md)
-  * [3. Toekennen van attributes en ordening](datavisualisatie-2/1.-ordening-elementen/3.-toekennen-van-attributes-en-ordening-2.md)
-  * [2. Abstraheren](datavisualisatie-2/1.-ordening-elementen/2.-abstraheren-2.md)
-  * [3. Toekennen van attributes en ordening](datavisualisatie-2/1.-ordening-elementen/3.-toekennen-van-attributes-en-ordening-1.md)
-  * [2. Abstraheren](datavisualisatie-2/1.-ordening-elementen/2.-abstraheren-1.md)
-  * [3. Toekennen van attributes en ordening](datavisualisatie-2/1.-ordening-elementen/3.-toekennen-van-attributes-en-ordening.md)
-  * [2. Abstraheren](datavisualisatie-2/1.-ordening-elementen/2.-abstraheren.md)
+* [Analyseren en Classificeren](datavisualisatie-2/1.-analyseren-en-classificeren.md)
 
----
+## Organisatie 1
 
-* [2. Ordening organisatie](1.-ordening-elementen.md)
+* [1. Ordening organisatie](organisatie-1/1.-ordening-elementen.md)
+* [2. Abstraheren](organisatie-1/2.-abstraheren.md)
+* [3. Toekennen van attributes en ordening](organisatie-1/3.-toekennen-van-attributes-en-ordening.md)
+* [2. Abstraheren](organisatie-1/2.-abstraheren-1.md)
+* [3. Toekennen van attributes en ordening](organisatie-1/3.-toekennen-van-attributes-en-ordening-1.md)
+* [2. Abstraheren](organisatie-1/2.-abstraheren-2.md)
+* [3. Toekennen van attributes en ordening](organisatie-1/3.-toekennen-van-attributes-en-ordening-2.md)
 
