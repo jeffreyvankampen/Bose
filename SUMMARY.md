@@ -38,5 +38,5 @@
 
 ---
 
-* [1. Ordening elementen](1.-ordening-elementen.md)
+* [1. Ordening organisatie](1.-ordening-elementen.md)
 
