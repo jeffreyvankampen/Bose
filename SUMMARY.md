@@ -23,3 +23,7 @@
   * [Lace Padilla](conference-s-h-o-w/lace-padilla.md)
   * [Lace Padilla](conference-s-h-o-w/lace-padilla-1.md)
 
+## Datavisualisatie 2
+
+* [Untitled](datavisualisatie-2/untitled.md)
+
