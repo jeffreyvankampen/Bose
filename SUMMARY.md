@@ -43,4 +43,5 @@
 
 * [1. Ordening organisatie](organisatie-2/1.-ordening-organisatie.md)
 * [2. Abstraheren](organisatie-2/2.-abstraheren.md)
+* [3. Toekennen van attributes en ordening](organisatie-2/3.-toekennen-van-attributes-en-ordening.md)
 
