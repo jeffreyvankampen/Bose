@@ -26,8 +26,9 @@
 ## Datavisualisatie 2
 
 * [Voorblad](datavisualisatie-2/untitled.md)
+* [Introductie](datavisualisatie-2/introductie.md)
 
 ---
 
-* [Introductie](introductie.md)
+* [1. Analyseren en Classificeren](1.-analyseren-en-classificeren.md)
 
