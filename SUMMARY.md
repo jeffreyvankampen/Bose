@@ -28,11 +28,15 @@
 * [Voorblad](datavisualisatie-2/untitled.md)
 * [Introductie](datavisualisatie-2/introductie.md)
 * [1. Analyseren en Classificeren](datavisualisatie-2/1.-analyseren-en-classificeren.md)
-* [1. Ordening elementen](datavisualisatie-2/1.-ordening-elementen.md)
-* [2. Abstraheren](datavisualisatie-2/2.-abstraheren.md)
-* [3. Toekennen van attributes en ordening](datavisualisatie-2/3.-toekennen-van-attributes-en-ordening.md)
-* [2. Abstraheren](datavisualisatie-2/2.-abstraheren-1.md)
-* [3. Toekennen van attributes en ordening](datavisualisatie-2/3.-toekennen-van-attributes-en-ordening-1.md)
-* [2. Abstraheren](datavisualisatie-2/2.-abstraheren-2.md)
-* [3. Toekennen van attributes en ordening](datavisualisatie-2/3.-toekennen-van-attributes-en-ordening-2.md)
+* [1. Ordening organisatie](datavisualisatie-2/1.-ordening-elementen/README.md)
+  * [3. Toekennen van attributes en ordening](datavisualisatie-2/1.-ordening-elementen/3.-toekennen-van-attributes-en-ordening-2.md)
+  * [2. Abstraheren](datavisualisatie-2/1.-ordening-elementen/2.-abstraheren-2.md)
+  * [3. Toekennen van attributes en ordening](datavisualisatie-2/1.-ordening-elementen/3.-toekennen-van-attributes-en-ordening-1.md)
+  * [2. Abstraheren](datavisualisatie-2/1.-ordening-elementen/2.-abstraheren-1.md)
+  * [3. Toekennen van attributes en ordening](datavisualisatie-2/1.-ordening-elementen/3.-toekennen-van-attributes-en-ordening.md)
+  * [2. Abstraheren](datavisualisatie-2/1.-ordening-elementen/2.-abstraheren.md)
+
+---
+
+* [1. Ordening elementen](1.-ordening-elementen.md)
 
