@@ -32,4 +32,5 @@
 
 * [1. Analyseren en Classificeren](1.-analyseren-en-classificeren.md)
 * [1. Ordening elementen](1.-ordening-elementen.md)
+* [2. Abstraheren](2.-abstraheren.md)
 
