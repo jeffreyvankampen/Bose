@@ -42,4 +42,5 @@
 ## Organisatie 2
 
 * [1. Ordening organisatie](organisatie-2/1.-ordening-organisatie.md)
+* [2. Abstraheren](organisatie-2/2.-abstraheren.md)
 
