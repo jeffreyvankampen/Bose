@@ -47,4 +47,6 @@
 * [2. Abstraheren](organisatie-2/untitled.md)
 * [2. Abstraheren](organisatie-2/2.-abstraheren-1.md)
 * [3. Toekennen van attributes en ordening](organisatie-2/3.-toekennen-van-attributes-en-ordening-1.md)
+* [2. Abstraheren](organisatie-2/2.-abstraheren-2.md)
+* [3. Toekennen van attributes en ordening](organisatie-2/3.-toekennen-van-attributes-en-ordening-2.md)
 
