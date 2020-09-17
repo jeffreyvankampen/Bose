@@ -59,4 +59,6 @@
 * [Hierarchical graphs/diagrams](organisatie-3/hierarchical-graphs-diagrams.md)
 * [Hierarchical graphs/diagrams](organisatie-3/hierarchical-graphs-diagrams-1.md)
 * [Hierarchical graphs/diagrams](organisatie-3/hierarchical-graphs-diagrams-2.md)
+* [Relational graphs/diagrams](organisatie-3/relational-graphs-diagrams.md)
+* [Relational graphs/diagrams](organisatie-3/relational-graphs-diagrams-1.md)
 
