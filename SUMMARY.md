@@ -66,4 +66,5 @@
 * [Temporal graphs/diagrams](organisatie-3/temporal-graphs-diagrams.md)
 * [Temporal graphs/diagrams](organisatie-3/temporal-graphs-diagrams-1.md)
 * [Temporal graphs/diagrams](organisatie-3/temporal-graphs-diagrams-2.md)
+* [Spatial graphs/diagrams](organisatie-3/spatial-graphs-diagrams.md)
 
