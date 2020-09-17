@@ -50,3 +50,8 @@
 * [2. Abstraheren](organisatie-2/2.-abstraheren-2.md)
 * [3. Toekennen van attributes en ordening](organisatie-2/3.-toekennen-van-attributes-en-ordening-2.md)
 
+## Organisatie 3
+
+* [Opdracht 3 CHRTS](organisatie-3/opdracht-3-chrts.md)
+* [Categorical graphs/diagrams](organisatie-3/categorical-graphs-diagrams.md)
+
