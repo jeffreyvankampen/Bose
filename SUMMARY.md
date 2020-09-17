@@ -57,4 +57,5 @@
 * [Categorical graphs/diagrams](organisatie-3/categorical-graphs-diagrams-1.md)
 * [Categorical graphs/diagrams](organisatie-3/categorical-graphs-diagrams-2.md)
 * [Hierarchical graphs/diagrams](organisatie-3/hierarchical-graphs-diagrams.md)
+* [Hierarchical graphs/diagrams](organisatie-3/hierarchical-graphs-diagrams-1.md)
 

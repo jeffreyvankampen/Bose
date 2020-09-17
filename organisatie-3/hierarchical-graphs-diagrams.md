@@ -6,7 +6,7 @@
 
   **Fig.7 Hierarchical pie chart prioriteit** 
 
-![](../.gitbook/assets/whatsapp-image-2020-09-17-at-23.35.14-2-.jpeg)
+![](../.gitbook/assets/whatsapp-image-2020-09-17-at-23.35.14-2-%20%281%29.jpeg)
 
 \*\*\*\*
 
