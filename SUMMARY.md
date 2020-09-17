@@ -54,4 +54,5 @@
 
 * [Opdracht 3 CHRTS](organisatie-3/opdracht-3-chrts.md)
 * [Categorical graphs/diagrams](organisatie-3/categorical-graphs-diagrams.md)
+* [Categorical graphs/diagrams](organisatie-3/categorical-graphs-diagrams-1.md)
 
