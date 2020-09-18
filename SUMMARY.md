@@ -69,3 +69,11 @@
 * [Spatial graphs/diagrams](organisatie-3/spatial-graphs-diagrams.md)
 * [Spatial graphs/diagrams](organisatie-3/spatial-graphs-diagrams-1.md)
 
+---
+
+* [Categorical uitgewerkt](categorical-uitgewerkt.md)
+* [Hierarchical uitgewerkt](hierarchical-uitgewerkt.md)
+* [Relation uitgewerkt](relation-uitgewerkt.md)
+* [Temporal uitgewerkt](temporal-uitgewerkt.md)
+* [Spatial uitgewerkt](spatial-uitgewerkt.md)
+
