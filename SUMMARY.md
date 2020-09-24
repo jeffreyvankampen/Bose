@@ -79,5 +79,5 @@
 
 ## Organisatie 4
 
-* [Editorial Thinking](organisatie-4/editorial-thinking.md)
+* [Editorial Thinking Onderwerp 1](organisatie-4/editorial-thinking.md)
 
