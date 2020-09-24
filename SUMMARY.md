@@ -79,5 +79,5 @@
 
 ## Organisatie 4
 
-* [Editorial Thinking Pupil](organisatie-4/editorial-thinking.md)
+* [Editorial Thinking Eyes](organisatie-4/editorial-thinking.md)
 

@@ -1,6 +1,6 @@
-# Editorial Thinking Pupil
+# Editorial Thinking Eyes
 
- 
+ Variabelen: Geslacht, kleur, grootte, digitaal, verwant, dier 
 
 **Angle**: welke vragen komen uit jouw nieuwsgierigheid voort \(denk aan Andy’s hoofd- en deelvragen\).  
 **Framing**: welke data, welke variabelen ga je gebruiken? Wat gebruik je en wat laat je weg?  
