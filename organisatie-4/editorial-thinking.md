@@ -1,4 +1,4 @@
-# Editorial Thinking Eyes
+# Editorial Thinking Ogen 1
 
  Variabelen: Geslacht, kleur, grootte, digitaal, verwant, dier 
 

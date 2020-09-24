@@ -79,5 +79,10 @@
 
 ## Organisatie 4
 
-* [Editorial Thinking Eyes](organisatie-4/editorial-thinking.md)
+* [Editorial Thinking Ogen 1](organisatie-4/editorial-thinking.md)
+* [Editorial Thinking Reizen 2](organisatie-4/editorial-thinking-reizen-2.md)
+
+---
+
+* [Editorial Thinking Carriere 3](editorial-thinking-carriere-3.md)
 
