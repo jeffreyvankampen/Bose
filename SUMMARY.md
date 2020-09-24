@@ -77,3 +77,7 @@
 * [Temporal uitgewerkt](temporal-uitgewerkt.md)
 * [Spatial uitgewerkt](spatial-uitgewerkt.md)
 
+## Organisatie 4
+
+* [Editorial Thinking](organisatie-4/editorial-thinking.md)
+
