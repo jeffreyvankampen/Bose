@@ -85,4 +85,5 @@
 ---
 
 * [Editorial Thinking Carriere 3](editorial-thinking-carriere-3.md)
+* [Editorial Thinking Muziek tijdperk 4](editorial-thinking-muziek-tijdperk-4.md)
 
