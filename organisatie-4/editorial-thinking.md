@@ -1,4 +1,4 @@
-# Editorial Thinking Onderwerp 1
+# Editorial Thinking Pupil
 
  
 
