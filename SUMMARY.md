@@ -81,10 +81,7 @@
 
 * [Editorial Thinking Ogen 1](organisatie-4/editorial-thinking.md)
 * [Editorial Thinking Reizen 2](organisatie-4/editorial-thinking-reizen-2.md)
-
----
-
-* [Editorial Thinking Carriere 3](editorial-thinking-carriere-3.md)
-* [Editorial Thinking Muziek tijdperk 4](editorial-thinking-muziek-tijdperk-4.md)
-* [Editorial Thinking Entertainment 5](editorial-thinking-entertainment-5.md)
+* [Editorial Thinking Carriere 3](organisatie-4/editorial-thinking-carriere-3.md)
+* [Editorial Thinking Muziek tijdperk 4](organisatie-4/editorial-thinking-muziek-tijdperk-4.md)
+* [Editorial Thinking Entertainment 5](organisatie-4/editorial-thinking-entertainment-5.md)
 
