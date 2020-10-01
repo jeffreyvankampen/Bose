@@ -1,5 +1,20 @@
 # Introductie
 
+## _**Onderwerp: Klasse**_
+
+**Hoofdvraag: Wat zijn de type CMD studenten en kan ik hen toekennen in bepaalde klassen?**
+
+**Subvraag 1: Wat is klasse?  
+Subvraag 2:**  
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
 **Opdracht 4, vervolg:** Alles komt samen 
 
 Als het goed is hebben jullie inmiddels een thema gekozen en heb je ook meerdere interessante invalshoeken \(angles\) om dat thema uit te diepen - liefst in de vorm van vragen. 
