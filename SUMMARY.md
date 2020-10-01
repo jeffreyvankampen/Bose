@@ -85,3 +85,8 @@
 * [Editorial Thinking Muziek tijdperk 4](organisatie-4/editorial-thinking-muziek-tijdperk-4.md)
 * [Editorial Thinking Entertainment 5](organisatie-4/editorial-thinking-entertainment-5.md)
 
+## Eindopdracht <a id="eindopdracht-1"></a>
+
+* [Voorblad](eindopdracht-1/voorblad.md)
+* [Introductie](eindopdracht-1/introductie.md)
+
