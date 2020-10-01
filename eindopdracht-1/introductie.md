@@ -2,10 +2,15 @@
 
 ## _**Onderwerp: Klasse**_
 
-**Hoofdvraag: Wat zijn de type CMD studenten en kan ik hen toekennen in bepaalde klassen?**
+**Hoofdvraag: Wat zijn de klassen van CMD studenten volgens de enquete?** 
 
-**Subvraag 1: Wat is klasse?  
-Subvraag 2:**  
+**Subvraag 1: Wat is klasse?   
+Subvraag 2: Waaronder versta ik klassen in mijn representatie?   
+Subvraag 2: Is het mogelijk om objectieve en subjectieve klasse te gebruiken?  
+Subvraag 3: Welke data kan ik gebruiken voor klassen?   
+Subvraag 4: Welke type CMD studenten zijn er?  
+Subvraag 5: Kan ik klasse aan studenten toekennen?**   
+
 
 \*\*\*\*
 
