@@ -1,4 +1,4 @@
-# Introductie
+# Introductie en angle
 
 ## _**Onderwerp: Klasse**_
 
