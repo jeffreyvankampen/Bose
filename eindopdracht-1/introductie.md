@@ -12,7 +12,13 @@ Subvraag 4:
 Subvraag 5:**   
 
 
-**Verzamelde data: Mentale welzijn** 
+**Verzamelde data: Mentale welzijn   
+  
+Rusten  
+Beweging  
+Technologie**  
+  
+
 
 Hoe beoordeelt u uw gezondheid?  
 Beoordeel uw algehele stressniveau \(1-10\)  
@@ -27,7 +33,7 @@ Wat is het meest inspirerende dat je hebt meegemaakt?
 Geloof je in goed en kwaad?  
 Wat maakt je ongemakkelijk?  
 Hoe tevreden bent u met uw leven? Hoe ziet u de toekomst?  
-Hoe is/was het leven voor jou in Kroon-tijden?   
+Hoe is/was voor jou het leven in tijden van Corona?  
 Evalueer uw relatie met de technologie.   
 Evalueer uw relatie met de natuur.  
 Ben je een introverte of een extraverte?  
