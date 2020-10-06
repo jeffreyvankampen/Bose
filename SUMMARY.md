@@ -89,4 +89,5 @@
 
 * [Voorblad](eindopdracht-1/voorblad.md)
 * [Introductie en angle](eindopdracht-1/introductie.md)
+* [Introductie en angle](eindopdracht-1/introductie-en-angle.md)
 

@@ -4,38 +4,10 @@
 
 **Hoofdvraag:** _**Hoeveel aandacht besteden studenten aan hun mentale welzijn**_ 
 
-Subvraag 1:   
-Subvraag 2:   
-Subvraag 2:   
-Subvraag 3:   
-Subvraag 4:   
-Subvraag 5:   
-  
-**Verzamelde data: Mentale welzijn   
-  
-Dagbesteding**  
-Hoe laat ga je naar bed?  
-Hoe laat sta je op?  
-Hoeveel uur per dag ben je weg?  
-Hoeveel minuten per dag besteedt u aan sociale media?  
-Hoeveel stappen neemt u per dag volgens uw telefoon?  
-  
-**Emotie**  
-Geloof je in goed en kwaad?  
-Wat maakt je ongemakkelijk?  
-****Hoe beoordeelt u uw gezondheid?  
-Beoordeel uw algehele stressniveau \(1-10\)  
-Wat maakt jou gelukkig?  
-Wat is het meest inspirerende dat je hebt meegemaakt?  
-Ben je een introverte of een extraverte?  
-Welke vergadering of gebeurtenis heeft u veranderd?  
-Hoe tevreden bent u met uw leven?   
-  
-**Externe factoren**  
-Hoe is/was voor jou het leven in tijden van Corona?  
-Welke sociale media gebruikt u? \(meer dan één mogelijk\)  
-Hoe ziet u de toekomst?  
-Evalueer uw relatie met de technologie.   
-Evalueer uw relatie met de natuur.  
-
+Subvraag 1: Hoe beleven zij hun mentale welzijn?  
+Subvraag 2: Wat bepaald hun welzijn?  
+Subvraag 2: Wat kan belangrijk zijn voor hun gevoelens en emotie?  
+Subvraag 3: Wat is subjectief voor hun mentale gezondheid?  
+Subvraag 4: Welke factoren hebben zij invloed op?  
+Subvraag 5: Wat voor impact heeft de data die hun mentale welzijn anders maakt?
 
