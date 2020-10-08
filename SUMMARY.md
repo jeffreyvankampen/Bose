@@ -91,4 +91,5 @@
 * [Inhoudsopgave](eindopdracht-1/voorblad.md)
 * [Introductie data onderwerp](eindopdracht-1/introductie.md)
 * [Introductie dataverzameling](eindopdracht-1/introductie-en-angle.md)
+* [Infographic](eindopdracht-1/infographic.md)
 
