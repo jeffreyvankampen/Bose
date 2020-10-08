@@ -1,13 +1,13 @@
-# Introductie en angle
+# Introductie data onderwerp
 
-## _**Onderwerp: Mentaal welzijn**_
+## _**Onderwerp: Mentale gezondheid**_
 
-**Hoofdvraag:** _**Hoeveel aandacht besteden studenten aan hun mentale welzijn**_ 
+**Hoofdvraag:** _**Hoe ziet de mentale gezondheid van studenten er uit?**_ 
 
-Subvraag 1: Hoe beleven studenten hun mentale welzijn?  
-Subvraag 2: Wat bepaald studenten hun mentale welzijn?  
-Subvraag 2: Wat kan belangrijk zijn voor hun gevoelens en emotie?  
-Subvraag 3: Wat is subjectief voor de mentale gezondheid van de studenten?  
+Subvraag 1: Hoe beleven studenten hun mentale gezondheid?  
+Subvraag 2: Wat bepaald studenten hun mentale gezondheid?  
+Subvraag 2: Wat kan belangrijk zijn voor hun mentale gezondheid?  
+Subvraag 3: Wat heeft niet direct gevolgen tot de mentale gezondheid voor studenten?  
 Subvraag 4: Welke factoren hebben zij zelf invloed op?  
-Subvraag 5: Wat voor impact heeft de data die hun mentale welzijn anders maakt?
+Subvraag 5: Kan ik onderzoek doen naar waar hun mentale gezondheid door beïnvloed wordt? 
 

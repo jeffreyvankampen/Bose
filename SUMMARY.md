@@ -88,6 +88,6 @@
 ## Eindopdracht <a id="eindopdracht-1"></a>
 
 * [Inhoudsopgave](eindopdracht-1/voorblad.md)
-* [Introductie en angle](eindopdracht-1/introductie.md)
+* [Introductie data onderwerp](eindopdracht-1/introductie.md)
 * [Introductie en angle](eindopdracht-1/introductie-en-angle.md)
 
