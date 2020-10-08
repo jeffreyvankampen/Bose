@@ -84,6 +84,7 @@
 * [Editorial Thinking Carriere 3](organisatie-4/editorial-thinking-carriere-3.md)
 * [Editorial Thinking Muziek tijdperk 4](organisatie-4/editorial-thinking-muziek-tijdperk-4.md)
 * [Editorial Thinking Entertainment 5](organisatie-4/editorial-thinking-entertainment-5.md)
+* [Editorial Thinking Mentale gezondheid](organisatie-4/editorial-thinking-mentale-gezondheid.md)
 
 ## Eindopdracht <a id="eindopdracht-1"></a>
 
