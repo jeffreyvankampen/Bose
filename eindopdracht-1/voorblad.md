@@ -2,7 +2,7 @@
 
   
 
-Jeffrey van Kampen \| Datavisualisatie 2 \| Opdracht 5 \| Jan Jaap Rijpkema \| 1 oktober 2020
+Jeffrey van Kampen \| Datavisualisatie 2 \| Opdracht 5 \| Jan Jaap Rijpkema \| 3 oktober 2020
 
 ##  1. Belangrijke data
 
