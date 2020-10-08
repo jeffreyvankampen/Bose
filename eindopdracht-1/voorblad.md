@@ -1,16 +1,16 @@
-# Voorblad
+# Inhoudsopgave
 
   
 
-Jeffrey van Kampen \| Datavisualisatie 2 \| Opdracht 4 \| Jan Jaap Rijpkema \| 1 oktober 2020
+Jeffrey van Kampen \| Datavisualisatie 2 \| Opdracht 5 \| Jan Jaap Rijpkema \| 1 oktober 2020
 
 ##  1. Belangrijke data
 
-##  2. Type klasse 
 
-##  3. Tools en grafieken 
 
-##  4. Interactie en voorbeelden
+##  2. Tools en grafieken 
 
-##  5. Data representatie
+##  3. Infographic en verantwoording
+
+##  4. Data representatie en bronvermelding
 
