@@ -1,5 +1,7 @@
 ---
-description: Een introductie van mijn procesboek
+description: >-
+  Een introductie van mijn procesboek en het onderwerp van mijn verslag. Hier
+  laat ik zien wat voor mij belangrijk is om te documenteren.
 ---
 
 # Voorblad

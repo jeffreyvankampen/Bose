@@ -6,35 +6,32 @@
 
 * [Voorblad](introductieweek/voorblad.md)
 * [Inhoudsopgave](introductieweek/inhoudsopgave.md)
+* [Briefing](introductieweek/briefing.md)
+* [Onderzoek](introductieweek/onderzoek.md)
+* [Onderzoek](introductieweek/onderzoek-1/README.md)
+  * [Onderzoek](introductieweek/onderzoek-1/onderzoek-2.md)
+* [Hard data](introductieweek/hard-data.md)
+* [Hard data](introductieweek/hard-data-1.md)
+* [Soft data](introductieweek/soft-data.md)
+* [Expo werk](introductieweek/expo-werk.md)
+* [Expo werk](introductieweek/expo-werk-1.md)
+* [Conference S-H-O-W](introductieweek/conference-s-h-o-w/README.md)
+  * [Jane Pong](introductieweek/conference-s-h-o-w/jane-pong.md)
+  * [Jane Pong](introductieweek/conference-s-h-o-w/jane-pong-1.md)
+  * [Angela Morelli](introductieweek/conference-s-h-o-w/angela-morelli.md)
+  * [Angela Morelli](introductieweek/conference-s-h-o-w/angela-morelli-1.md)
+  * [Lauren Klein](introductieweek/conference-s-h-o-w/lauren-klein.md)
+  * [Lauren Klein](introductieweek/conference-s-h-o-w/lauren-klein-1.md)
+  * [Giorgia Lupi](introductieweek/conference-s-h-o-w/giorgia-lupi.md)
+  * [Miriam Quick & Stefanie Posavec](introductieweek/conference-s-h-o-w/miriam-quick-and-stefanie-posavec.md)
+  * [Lace Padilla](introductieweek/conference-s-h-o-w/lace-padilla.md)
+  * [Lace Padilla](introductieweek/conference-s-h-o-w/lace-padilla-1.md)
 
----
+## Opdracht 1 Inleiding
 
-* [Briefing](briefing.md)
-* [Onderzoek](onderzoek.md)
-* [Onderzoek](onderzoek-1/README.md)
-  * [Onderzoek](onderzoek-1/onderzoek-2.md)
-* [Hard data](hard-data.md)
-* [Hard data](hard-data-1.md)
-* [Soft data](soft-data.md)
-* [Expo werk](expo-werk.md)
-* [Expo werk](expo-werk-1.md)
-* [Conference S-H-O-W](conference-s-h-o-w/README.md)
-  * [Jane Pong](conference-s-h-o-w/jane-pong.md)
-  * [Jane Pong](conference-s-h-o-w/jane-pong-1.md)
-  * [Angela Morelli](conference-s-h-o-w/angela-morelli.md)
-  * [Angela Morelli](conference-s-h-o-w/angela-morelli-1.md)
-  * [Lauren Klein](conference-s-h-o-w/lauren-klein.md)
-  * [Lauren Klein](conference-s-h-o-w/lauren-klein-1.md)
-  * [Giorgia Lupi](conference-s-h-o-w/giorgia-lupi.md)
-  * [Miriam Quick & Stefanie Posavec](conference-s-h-o-w/miriam-quick-and-stefanie-posavec.md)
-  * [Lace Padilla](conference-s-h-o-w/lace-padilla.md)
-  * [Lace Padilla](conference-s-h-o-w/lace-padilla-1.md)
-
-## Dataorganisatie inleiding <a id="datavisualisatie-2"></a>
-
-* [Voorblad](datavisualisatie-2/untitled.md)
-* [Introductie](datavisualisatie-2/introductie.md)
-* [Analyseren en Classificeren](datavisualisatie-2/1.-analyseren-en-classificeren.md)
+* [Voorblad](opdracht-1-inleiding/untitled.md)
+* [Introductie](opdracht-1-inleiding/introductie.md)
+* [Analyseren en Classificeren](opdracht-1-inleiding/1.-analyseren-en-classificeren.md)
 
 ## Opdracht 1
 
