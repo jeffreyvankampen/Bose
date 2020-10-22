@@ -79,7 +79,7 @@
 
 ## Opdracht 4
 
-* [Editorial Thinking 1](opdracht-4/editorial-thinking.md)
+* [Editorial Thinking](opdracht-4/editorial-thinking.md)
 * [Editorial Thinking Reizen 2](opdracht-4/editorial-thinking-reizen-2.md)
 * [Editorial Thinking Carriere 3](opdracht-4/editorial-thinking-carriere-3.md)
 * [Editorial Thinking Muziek tijdperk 4](opdracht-4/editorial-thinking-muziek-tijdperk-4.md)

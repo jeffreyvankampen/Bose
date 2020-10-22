@@ -1,4 +1,4 @@
-# Editorial Thinking 1
+# Editorial Thinking
 
  
 
