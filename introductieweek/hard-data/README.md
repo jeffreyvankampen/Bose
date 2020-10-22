@@ -8,7 +8,7 @@ Nadat wij de route hebben gevolgd en onze data hebben gemeten volgens een system
 
  
 
-![](../.gitbook/assets/schermafbeelding-2020-09-06-om-22.55.20.png)
+![](../../.gitbook/assets/schermafbeelding-2020-09-06-om-22.55.20.png)
 
 Hier zie je een tabel met de opnames van de 7 observaties. Hier hebben wij 7 variabelen namelijk:          Tijdstip, locatie, personen, buiten of binnen, materiaal, bedekking wel of niet volgens RIVM en onze bevindingen. 
 

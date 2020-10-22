@@ -8,5 +8,5 @@ description: Hier zijn beelden van de expositie met een reflectie op het werk
 
 Een verbetering in dit geval was vanuit soft data perspectief om een meer subjectieve weergave te laten zien met gebeurtenissen. En vanuit hard data perspectief de graphs met elkaar te linken, en waar de percentages op gebaseerd zijn. 
 
-![](../.gitbook/assets/20200904_144718.jpg)
+![](../../.gitbook/assets/20200904_144718.jpg)
 

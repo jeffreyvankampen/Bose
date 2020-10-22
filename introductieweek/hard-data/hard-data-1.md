@@ -12,7 +12,7 @@ De keuze volgens het brainstormen voor de juiste grafiek is dus erg complex. Uit
 
 Hiernaast maakte ik een cirkeldiagram om het materiaal dat gedragen werd duidelijker te maken. Tot slot zie je een overzicht wanneer mensen hun masker juist dragen met daarin de stijging of daling, evenals de mensen die het verkeerd droegen.   
 
-![](../.gitbook/assets/schermafbeelding-2020-09-06-om-23.12.30.png)
+![](../../.gitbook/assets/schermafbeelding-2020-09-06-om-23.12.30.png)
 
 
 
