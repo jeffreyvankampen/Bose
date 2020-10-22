@@ -1,8 +1,4 @@
-# Inhoudsopgave
-
-  
-
-Jeffrey van Kampen \| Datavisualisatie 2 \| Opdracht 5 \| Jan Jaap Rijpkema \| 3 oktober 2020
+# Eindopdracht
 
 ##  1. Belangrijke data
 
