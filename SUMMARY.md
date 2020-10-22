@@ -52,7 +52,7 @@
 
 ## Opdracht 3
 
-* [Opdracht 3 CHRTS](opdracht-3/opdracht-3-chrts.md)
+* [CHRTS introductie](opdracht-3/opdracht-3-chrts.md)
 * [Categorical graphs/diagrams](opdracht-3/categorical-graphs-diagrams.md)
 * [Categorical graphs/diagrams](opdracht-3/categorical-graphs-diagrams-1.md)
 * [Categorical graphs/diagrams](opdracht-3/categorical-graphs-diagrams-2.md)
