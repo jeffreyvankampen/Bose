@@ -1,7 +1,14 @@
 # Table of contents
 
 * [Voorblad](README.md)
-* [Inhoudsopgave](inhoudsopgave.md)
+
+## Introductieweek
+
+* [Voorblad](introductieweek/voorblad.md)
+* [Inhoudsopgave](introductieweek/inhoudsopgave.md)
+
+---
+
 * [Briefing](briefing.md)
 * [Onderzoek](onderzoek.md)
 * [Onderzoek](onderzoek-1/README.md)
