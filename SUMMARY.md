@@ -28,7 +28,7 @@
 
 ## Opdracht 1 Inleiding
 
-* [Voorblad](opdracht-1-inleiding/untitled.md)
+* [Opdracht 1](opdracht-1-inleiding/untitled.md)
 * [Introductie](opdracht-1-inleiding/introductie.md)
 * [Analyseren en Classificeren](opdracht-1-inleiding/1.-analyseren-en-classificeren.md)
 
