@@ -2,7 +2,7 @@
 
 **Fig.3 Relation behaviour mapping overzicht** 
 
-![](.gitbook/assets/whatsapp-image-2020-09-18-at-11.18.58.jpeg)
+![](../.gitbook/assets/whatsapp-image-2020-09-18-at-11.18.58.jpeg)
 
   
 **Pros**   

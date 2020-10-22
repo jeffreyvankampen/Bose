@@ -2,7 +2,7 @@
 
 **Fig.2 Hierarchische grafiek van de inhoud en onderverdeling** 
 
-![](.gitbook/assets/whatsapp-image-2020-09-18-at-11.18.58-2-.jpeg)
+![](../.gitbook/assets/whatsapp-image-2020-09-18-at-11.18.58-2-.jpeg)
 
 **Pros**  
 Leuk overzicht aangezien het een bureaukast als object te gebruiken en vertalen als grafiek  

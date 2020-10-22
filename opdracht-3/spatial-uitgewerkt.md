@@ -2,7 +2,7 @@
 
 **Fig.5 \(Spatial\) overzicht Proportional**
 
-![](.gitbook/assets/whatsapp-image-2020-09-17-at-23.27.58-1-.jpeg)
+![](../.gitbook/assets/whatsapp-image-2020-09-17-at-23.27.58-1-.jpeg)
 
 **Pros**   
 Duidelijk overzicht van een realistische weergave en hoe ik het effectief indeel  

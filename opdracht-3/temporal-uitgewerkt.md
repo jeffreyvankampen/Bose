@@ -2,7 +2,7 @@
 
 **Fig.4 Temporal lijngrafiek met ritme**
 
-![](.gitbook/assets/whatsapp-image-2020-09-18-at-11.18.58-3-.jpeg)
+![](../.gitbook/assets/whatsapp-image-2020-09-18-at-11.18.58-3-.jpeg)
 
 **Pros**   
 Het is overzichtelijk  

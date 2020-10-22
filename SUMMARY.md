@@ -68,18 +68,15 @@
 * [Temporal graphs/diagrams](opdracht-3/temporal-graphs-diagrams-2.md)
 * [Spatial graphs/diagrams](opdracht-3/spatial-graphs-diagrams.md)
 * [Spatial graphs/diagrams](opdracht-3/spatial-graphs-diagrams-1.md)
-
----
-
-* [Categorical uitgewerkt](categorical-uitgewerkt.md)
-* [Hierarchical uitgewerkt](hierarchical-uitgewerkt.md)
-* [Relation uitgewerkt](relation-uitgewerkt.md)
-* [Temporal uitgewerkt](temporal-uitgewerkt.md)
-* [Spatial uitgewerkt](spatial-uitgewerkt.md)
+* [Categorical uitgewerkt](opdracht-3/categorical-uitgewerkt.md)
+* [Hierarchical uitgewerkt](opdracht-3/hierarchical-uitgewerkt.md)
+* [Relation uitgewerkt](opdracht-3/relation-uitgewerkt.md)
+* [Temporal uitgewerkt](opdracht-3/temporal-uitgewerkt.md)
+* [Spatial uitgewerkt](opdracht-3/spatial-uitgewerkt.md)
 
 ## Opdracht 4
 
-* [Editorial Thinking](opdracht-4/editorial-thinking.md)
+* [Editorial Thinking Ogen](opdracht-4/editorial-thinking.md)
 * [Editorial Thinking Reizen 2](opdracht-4/editorial-thinking-reizen-2.md)
 * [Editorial Thinking Carriere 3](opdracht-4/editorial-thinking-carriere-3.md)
 * [Editorial Thinking Muziek tijdperk 4](opdracht-4/editorial-thinking-muziek-tijdperk-4.md)

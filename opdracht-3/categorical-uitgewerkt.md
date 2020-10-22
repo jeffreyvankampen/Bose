@@ -3,7 +3,7 @@
   
 **Fig.1 Categoriek diagram van seizoen en objecten**
 
-![](.gitbook/assets/whatsapp-image-2020-09-18-at-11.18.58-1-.jpeg)
+![](../.gitbook/assets/whatsapp-image-2020-09-18-at-11.18.58-1-.jpeg)
 
 **Pros**  
 Makkelijk te lezen en vervolgens induiken voor de toeschouwer  
