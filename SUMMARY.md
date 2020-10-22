@@ -4,7 +4,6 @@
 
 ## Introductieweek
 
-* [Voorblad](introductieweek/voorblad.md)
 * [Inhoudsopgave](introductieweek/inhoudsopgave.md)
 * [Briefing](introductieweek/briefing.md)
 * [Onderzoek](introductieweek/onderzoek.md)
