@@ -29,45 +29,45 @@
 * [Introductie](datavisualisatie-2/introductie.md)
 * [Analyseren en Classificeren](datavisualisatie-2/1.-analyseren-en-classificeren.md)
 
-## Organisatie 1
+## Opdracht 1
 
-* [1. Ordening organisatie](organisatie-1/1.-ordening-elementen.md)
-* [2. Abstraheren](organisatie-1/2.-abstraheren.md)
-* [3. Toekennen van attributes en ordening](organisatie-1/3.-toekennen-van-attributes-en-ordening.md)
-* [2. Abstraheren](organisatie-1/2.-abstraheren-1.md)
-* [3. Toekennen van attributes en ordening](organisatie-1/3.-toekennen-van-attributes-en-ordening-1.md)
-* [2. Abstraheren](organisatie-1/2.-abstraheren-2.md)
-* [3. Toekennen van attributes en ordening](organisatie-1/3.-toekennen-van-attributes-en-ordening-2.md)
+* [1. Ordening organisatie](opdracht-1/1.-ordening-elementen.md)
+* [2. Abstraheren](opdracht-1/2.-abstraheren.md)
+* [3. Toekennen van attributes en ordening](opdracht-1/3.-toekennen-van-attributes-en-ordening.md)
+* [2. Abstraheren](opdracht-1/2.-abstraheren-1.md)
+* [3. Toekennen van attributes en ordening](opdracht-1/3.-toekennen-van-attributes-en-ordening-1.md)
+* [2. Abstraheren](opdracht-1/2.-abstraheren-2.md)
+* [3. Toekennen van attributes en ordening](opdracht-1/3.-toekennen-van-attributes-en-ordening-2.md)
 
-## Organisatie 2
+## Opdracht 2
 
-* [1. Ordening organisatie](organisatie-2/1.-ordening-organisatie.md)
-* [2. Abstraheren](organisatie-2/2.-abstraheren.md)
-* [3. Toekennen van attributes en ordening](organisatie-2/3.-toekennen-van-attributes-en-ordening.md)
-* [2. Abstraheren](organisatie-2/untitled.md)
-* [2. Abstraheren](organisatie-2/2.-abstraheren-1.md)
-* [3. Toekennen van attributes en ordening](organisatie-2/3.-toekennen-van-attributes-en-ordening-1.md)
-* [2. Abstraheren](organisatie-2/2.-abstraheren-2.md)
-* [3. Toekennen van attributes en ordening](organisatie-2/3.-toekennen-van-attributes-en-ordening-2.md)
+* [1. Ordening organisatie](opdracht-2/1.-ordening-organisatie.md)
+* [2. Abstraheren](opdracht-2/2.-abstraheren.md)
+* [3. Toekennen van attributes en ordening](opdracht-2/3.-toekennen-van-attributes-en-ordening.md)
+* [2. Abstraheren](opdracht-2/untitled.md)
+* [2. Abstraheren](opdracht-2/2.-abstraheren-1.md)
+* [3. Toekennen van attributes en ordening](opdracht-2/3.-toekennen-van-attributes-en-ordening-1.md)
+* [2. Abstraheren](opdracht-2/2.-abstraheren-2.md)
+* [3. Toekennen van attributes en ordening](opdracht-2/3.-toekennen-van-attributes-en-ordening-2.md)
 
-## Organisatie 3
+## Opdracht 3
 
-* [Opdracht 3 CHRTS](organisatie-3/opdracht-3-chrts.md)
-* [Categorical graphs/diagrams](organisatie-3/categorical-graphs-diagrams.md)
-* [Categorical graphs/diagrams](organisatie-3/categorical-graphs-diagrams-1.md)
-* [Categorical graphs/diagrams](organisatie-3/categorical-graphs-diagrams-2.md)
-* [Hierarchical graphs/diagrams](organisatie-3/hierarchical-graphs-diagrams.md)
-* [Hierarchical graphs/diagrams](organisatie-3/hierarchical-graphs-diagrams-1.md)
-* [Hierarchical graphs/diagrams](organisatie-3/hierarchical-graphs-diagrams-2.md)
-* [Relational graphs/diagrams](organisatie-3/relational-graphs-diagrams.md)
-* [Relational graphs/diagrams](organisatie-3/relational-graphs-diagrams-1.md)
-* [Relational graphs/diagrams](organisatie-3/relational-graphs-diagrams-2.md)
-* [Relational graphs/diagrams](organisatie-3/relational-graphs-diagrams-3.md)
-* [Temporal graphs/diagrams](organisatie-3/temporal-graphs-diagrams.md)
-* [Temporal graphs/diagrams](organisatie-3/temporal-graphs-diagrams-1.md)
-* [Temporal graphs/diagrams](organisatie-3/temporal-graphs-diagrams-2.md)
-* [Spatial graphs/diagrams](organisatie-3/spatial-graphs-diagrams.md)
-* [Spatial graphs/diagrams](organisatie-3/spatial-graphs-diagrams-1.md)
+* [Opdracht 3 CHRTS](opdracht-3/opdracht-3-chrts.md)
+* [Categorical graphs/diagrams](opdracht-3/categorical-graphs-diagrams.md)
+* [Categorical graphs/diagrams](opdracht-3/categorical-graphs-diagrams-1.md)
+* [Categorical graphs/diagrams](opdracht-3/categorical-graphs-diagrams-2.md)
+* [Hierarchical graphs/diagrams](opdracht-3/hierarchical-graphs-diagrams.md)
+* [Hierarchical graphs/diagrams](opdracht-3/hierarchical-graphs-diagrams-1.md)
+* [Hierarchical graphs/diagrams](opdracht-3/hierarchical-graphs-diagrams-2.md)
+* [Relational graphs/diagrams](opdracht-3/relational-graphs-diagrams.md)
+* [Relational graphs/diagrams](opdracht-3/relational-graphs-diagrams-1.md)
+* [Relational graphs/diagrams](opdracht-3/relational-graphs-diagrams-2.md)
+* [Relational graphs/diagrams](opdracht-3/relational-graphs-diagrams-3.md)
+* [Temporal graphs/diagrams](opdracht-3/temporal-graphs-diagrams.md)
+* [Temporal graphs/diagrams](opdracht-3/temporal-graphs-diagrams-1.md)
+* [Temporal graphs/diagrams](opdracht-3/temporal-graphs-diagrams-2.md)
+* [Spatial graphs/diagrams](opdracht-3/spatial-graphs-diagrams.md)
+* [Spatial graphs/diagrams](opdracht-3/spatial-graphs-diagrams-1.md)
 
 ---
 
@@ -77,14 +77,14 @@
 * [Temporal uitgewerkt](temporal-uitgewerkt.md)
 * [Spatial uitgewerkt](spatial-uitgewerkt.md)
 
-## Organisatie 4
+## Opdracht 4
 
-* [Editorial Thinking Ogen 1](organisatie-4/editorial-thinking.md)
-* [Editorial Thinking Reizen 2](organisatie-4/editorial-thinking-reizen-2.md)
-* [Editorial Thinking Carriere 3](organisatie-4/editorial-thinking-carriere-3.md)
-* [Editorial Thinking Muziek tijdperk 4](organisatie-4/editorial-thinking-muziek-tijdperk-4.md)
-* [Editorial Thinking Mentale gezondheid 5](organisatie-4/editorial-thinking-mentale-gezondheid.md)
-* [Editorial Thinking Entertainment 6](organisatie-4/editorial-thinking-entertainment-5.md)
+* [Editorial Thinking Ogen 1](opdracht-4/editorial-thinking.md)
+* [Editorial Thinking Reizen 2](opdracht-4/editorial-thinking-reizen-2.md)
+* [Editorial Thinking Carriere 3](opdracht-4/editorial-thinking-carriere-3.md)
+* [Editorial Thinking Muziek tijdperk 4](opdracht-4/editorial-thinking-muziek-tijdperk-4.md)
+* [Editorial Thinking Mentale gezondheid 5](opdracht-4/editorial-thinking-mentale-gezondheid.md)
+* [Editorial Thinking Entertainment 6](opdracht-4/editorial-thinking-entertainment-5.md)
 
 ## Eindopdracht <a id="eindopdracht-1"></a>
 
