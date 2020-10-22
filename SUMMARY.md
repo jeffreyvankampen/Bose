@@ -26,21 +26,18 @@
   * [Lace Padilla](introductieweek/conference-s-h-o-w/lace-padilla.md)
   * [Lace Padilla](introductieweek/conference-s-h-o-w/lace-padilla-1.md)
 
-## Opdracht 1 Inleiding
+## Opdracht 1 <a id="opdracht-1-inleiding"></a>
 
 * [Opdracht 1](opdracht-1-inleiding/untitled.md)
 * [Introductie](opdracht-1-inleiding/introductie.md)
 * [Analyseren en Classificeren](opdracht-1-inleiding/1.-analyseren-en-classificeren.md)
-
-## Opdracht 1
-
-* [1. Ordening organisatie](opdracht-1/1.-ordening-elementen.md)
-* [2. Abstraheren](opdracht-1/2.-abstraheren.md)
-* [3. Toekennen van attributes en ordening](opdracht-1/3.-toekennen-van-attributes-en-ordening.md)
-* [2. Abstraheren](opdracht-1/2.-abstraheren-1.md)
-* [3. Toekennen van attributes en ordening](opdracht-1/3.-toekennen-van-attributes-en-ordening-1.md)
-* [2. Abstraheren](opdracht-1/2.-abstraheren-2.md)
-* [3. Toekennen van attributes en ordening](opdracht-1/3.-toekennen-van-attributes-en-ordening-2.md)
+* [1. Ordening organisatie](opdracht-1-inleiding/1.-ordening-elementen.md)
+* [2. Abstraheren](opdracht-1-inleiding/2.-abstraheren.md)
+* [3. Toekennen van attributes en ordening](opdracht-1-inleiding/3.-toekennen-van-attributes-en-ordening.md)
+* [2. Abstraheren](opdracht-1-inleiding/2.-abstraheren-1.md)
+* [3. Toekennen van attributes en ordening](opdracht-1-inleiding/3.-toekennen-van-attributes-en-ordening-1.md)
+* [2. Abstraheren](opdracht-1-inleiding/2.-abstraheren-2.md)
+* [3. Toekennen van attributes en ordening](opdracht-1-inleiding/3.-toekennen-van-attributes-en-ordening-2.md)
 
 ## Opdracht 2
 
