@@ -29,7 +29,6 @@
 ## Opdracht 1 <a id="opdracht-1-inleiding"></a>
 
 * [Introductie](opdracht-1-inleiding/untitled.md)
-* [Introductie](opdracht-1-inleiding/introductie.md)
 * [Analyseren en Classificeren](opdracht-1-inleiding/1.-analyseren-en-classificeren.md)
 * [1. Ordening organisatie](opdracht-1-inleiding/1.-ordening-elementen.md)
 * [2. Abstraheren](opdracht-1-inleiding/2.-abstraheren.md)
