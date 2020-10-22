@@ -1,8 +1,6 @@
-# Eindopdracht
+# Inhoud
 
-##  1. Belangrijke data
-
-##  2. Tools en grafieken 
+##  1. Introductie
 
 ##  3. Infographic en verantwoording
 
