@@ -44,7 +44,7 @@
 
 ## Opdracht 2
 
-* [1. Ordening organisatie](opdracht-2/1.-ordening-organisatie.md)
+* [Opdracht 2](opdracht-2/1.-ordening-organisatie.md)
 * [2. Abstraheren](opdracht-2/2.-abstraheren.md)
 * [3. Toekennen van attributes en ordening](opdracht-2/3.-toekennen-van-attributes-en-ordening.md)
 * [2. Abstraheren](opdracht-2/untitled.md)
