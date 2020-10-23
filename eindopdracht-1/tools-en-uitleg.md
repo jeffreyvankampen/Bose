@@ -12,11 +12,6 @@ Nadat ik een eerste opzet heb kunnen maken heb ik feedback ontvangen op mijn pos
 
 Hier zie je de eerste opzet van mijn infographic maar de grafieken heb ik meerdere keren gewijzigd om te testen wat duidelijker en effectiever voor mijn data werkt. Hier zie je de vragen die ik eerst gebruik. Ondertussen heb ik hele makkelijke schetsen gemaakt en daarna de volgende tools gebruikt: 
 
-Flourish: [https://flourish.studio/](https://flourish.studio/)  
-Datawrapper: [https://www.datawrapper.de/](https://www.datawrapper.de/)  
-Tableau: [https://www.tableau.com/](https://www.tableau.com/)  
-RAW graphs: [https://rawgraphs.io/](https://rawgraphs.io/)
-
 ![Een aantal schetsen van mijn proces. Ook laat ik zien hoe ik de idee&#xEB;n genereer, en data combineer die ik later exact bereken via excel.](../.gitbook/assets/20201023_125528.jpg)
 
 ![](../.gitbook/assets/20201023_124118.jpg) ![](../.gitbook/assets/20201023_124106.jpg) 
@@ -24,4 +19,10 @@ RAW graphs: [https://rawgraphs.io/](https://rawgraphs.io/)
 ![Het leek mij goed om nog meer schetsen te maken zodat ik meer weet over de mogelijkheden en het thema mentale gezondheid](../.gitbook/assets/111.jpg)
 
 ![Dit is mijn ongebruikte Layout opzet om te experimenteren met de variabelen en interessante inzichten](../.gitbook/assets/infographic_opzet_jeffrey-van-kampen_-1.png)
+
+Gebruikte tools:  
+Flourish: [https://flourish.studio/](https://flourish.studio/)  
+Datawrapper: [https://www.datawrapper.de/](https://www.datawrapper.de/)  
+Tableau: [https://www.tableau.com/](https://www.tableau.com/)  
+RAW graphs: [https://rawgraphs.io/](https://rawgraphs.io/)
 
