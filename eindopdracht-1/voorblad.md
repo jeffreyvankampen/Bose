@@ -1,3 +1,7 @@
+---
+description: De inhoud van mijn eindopdracht
+---
+
 # Inhoud
 
 ##  1. Onderwerp

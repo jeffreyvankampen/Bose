@@ -1,3 +1,9 @@
+---
+description: >-
+  Hier geef ik een uitleg van mijn thema en wat ik eerst interessante
+  onderzoeksvragen vind
+---
+
 # Introductie data onderwerp
 
 ## _**Onderwerp: Mentale gezondheid**_
