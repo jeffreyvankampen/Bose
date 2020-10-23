@@ -23,5 +23,5 @@ RAW graphs: [https://rawgraphs.io/](https://rawgraphs.io/)
 
 ![Het leek mij goed om nog meer schetsen te maken zodat ik meer weet over de mogelijkheden en het thema mentale gezondheid](../.gitbook/assets/111.jpg)
 
-![De ongebruikte Layout opzet om te experimenteren met de variabelen en interessante inzichten](../.gitbook/assets/infographic_opzet_jeffrey-van-kampen_-1.png)
+![Dit is mijn ongebruikte Layout opzet om te experimenteren met de variabelen en interessante inzichten](../.gitbook/assets/infographic_opzet_jeffrey-van-kampen_-1.png)
 
