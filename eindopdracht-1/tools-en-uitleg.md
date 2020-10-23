@@ -17,7 +17,7 @@ Datawrapper: [https://www.datawrapper.de/](https://www.datawrapper.de/)
 Tableau: [https://www.tableau.com/](https://www.tableau.com/)  
 RAW graphs: [https://rawgraphs.io/](https://rawgraphs.io/)
 
-![Een aantal schetsen van mijn proces. Ook laat ik zien hoe ik de idee&#xEB;n genereer, en data combineer later bereken ik het exact via excel](../.gitbook/assets/20201023_125528.jpg)
+![Een aantal schetsen van mijn proces. Ook laat ik zien hoe ik de idee&#xEB;n genereer, en data combineer die ik later exact bereken via excel.](../.gitbook/assets/20201023_125528.jpg)
 
 ![](../.gitbook/assets/20201023_124118.jpg) ![](../.gitbook/assets/20201023_124106.jpg) 
 
