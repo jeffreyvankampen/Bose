@@ -1,8 +1,8 @@
 # Inhoud
 
-##  1. Introductie
+##  1. Onderwerp
 
-##  3. Infographic en verantwoording
+##  3. Verzameling en onderzoeksvragen
 
-##  4. Data representatie en bronvermelding
+##  4. Data representatie en Infographic
 
