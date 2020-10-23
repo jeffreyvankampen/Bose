@@ -2,7 +2,7 @@
 
 In de eindopdracht maak ik een keuze van mijn gekozen thema in dit geval mentale gezondheid. Dit onderwerp vind ik interessant omdat ik onder anderen het stressniveau kan vergelijken met verschillende variabelen. Omdat ik een paar goede ideeën had opgedaan voor dit onderwerp lijkt dit thema mij ook  intrigerend. Zeker omdat ik een uiteindelijk een aanname kan maken wat invloed zou kunnen hebben op mentale gezondheid van cmd studenten, dit spreekt mij erg aan. Daarom is het thema van mijn infographic: 
 
-### _**De mentale gezondheid van studenten**_
+### _**De mentale gezondheid van cmd studenten**_
 
 De data die ik eerder heb gekozen wil ik nu gebruiken. Deze data gebruik ik voor ongeveer 5 vragen op mijn Infographic. Zo hoop ik uiteindelijk combinaties te maken voor de onderlinge impact van de data. Data zoals wie wel of niet in relatie is, wat het stressniveau is samen met hun studieschuld, en bijvoorbeeld wat studenten hun ideologie is met een interessante grafiek over politiek om te zien hoe zij denken. Dit zijn verschillende brede begrippen maar ik hoop dit in te kaderen op mijn infographic om de lezer te interesseren. 
 
