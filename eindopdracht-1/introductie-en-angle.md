@@ -1,3 +1,7 @@
+---
+description: De data die ik heb verzameld met een relatie tot mentale gezondheid
+---
+
 # Introductie dataverzameling
 
 **Verzamelde data: Mentale gezondheid**  
