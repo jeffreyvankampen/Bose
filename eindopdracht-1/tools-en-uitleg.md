@@ -1,3 +1,9 @@
+---
+description: >-
+  De manier waarop ik de tools heb gebruikt, feedback heb verwerkt en gekeken
+  met losse schetsjes wat goed voor mijn infographic werkt
+---
+
 # Infographic aanpak
 
 Nadat ik de theorie nogmaals heb herbekeken kon ik de data beter toepassen. Aangezien het voor mij nu belangrijk was om de data realistisch en informatief te maken om een dergelijke bias te voorkomen. Maar het is eenmaal wel dat het onderwerp mentale gezondheid ingewikkeld kan zijn. Toch ben ik van mening dat ik een interessante uitkomst op mijn onderzoek heb kunnen krijgen. 
@@ -9,7 +15,7 @@ Hier zie je de eerste opzet van mijn infographic maar de grafieken heb ik meerde
 Flourish: [https://flourish.studio/](https://flourish.studio/)  
 Datawrapper: [https://www.datawrapper.de/](https://www.datawrapper.de/)  
 Tableau: [https://www.tableau.com/](https://www.tableau.com/)  
-RAW graphs: [https://rawgraphs.io/](https://rawgraphs.io/)  
-  
+RAW graphs: [https://rawgraphs.io/](https://rawgraphs.io/)
 
+![](../.gitbook/assets/infographic_opzet_jeffrey-van-kampen_-1.png)
 
