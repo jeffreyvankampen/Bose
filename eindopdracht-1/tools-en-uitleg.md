@@ -22,5 +22,5 @@ RAW graphs: [https://rawgraphs.io/](https://rawgraphs.io/)
 ![](../.gitbook/assets/20201023_124118.jpg) ![](../.gitbook/assets/20201023_124106.jpg)   
 
 
-![De ongebruikte layout opzet om te experimenteren](../.gitbook/assets/infographic_opzet_jeffrey-van-kampen_-1.png)
+![De ongebruikte Layout opzet om te experimenteren met de variabelen en interessante inzichten](../.gitbook/assets/infographic_opzet_jeffrey-van-kampen_-1.png)
 
