@@ -1,7 +1,7 @@
 ---
 description: >-
   Dit is het eindproduct van de vervolgopdracht waarin ik alle data gegenereerd
-  en berekend heb
+  en onderzocht heb
 ---
 
 # Eindproduct
