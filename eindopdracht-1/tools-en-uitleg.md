@@ -4,7 +4,7 @@ description: >-
   met losse schetsjes wat goed voor mijn infographic werkt
 ---
 
-# Infographic aanpak
+# Infographic methode
 
 Nadat ik de theorie nogmaals heb herbekeken kon ik de data beter toepassen. Aangezien het voor mij nu belangrijk was om de data realistisch en informatief te maken om een dergelijke bias te voorkomen. Maar het is eenmaal wel dat het onderwerp mentale gezondheid ingewikkeld kan zijn. Toch ben ik van mening dat ik een interessante uitkomst op mijn onderzoek heb kunnen krijgen. 
 

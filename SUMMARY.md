@@ -88,6 +88,6 @@
 * [Introductie data onderwerp](eindopdracht-1/introductie.md)
 * [Introductie dataverzameling](eindopdracht-1/introductie-en-angle.md)
 * [Infographic verantwoording](eindopdracht-1/infographic.md)
-* [Infographic aanpak](eindopdracht-1/tools-en-uitleg.md)
+* [Infographic methode](eindopdracht-1/tools-en-uitleg.md)
 * [Eindproduct](eindopdracht-1/untitled.md)
 
