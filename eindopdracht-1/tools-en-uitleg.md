@@ -10,7 +10,7 @@ Nadat ik de theorie nogmaals heb herzien kon ik de data beter toepassen. Aangezi
 
 Nadat ik een eerste opzet heb kunnen maken heb ik feedback ontvangen op mijn poster. Het kwam voornamelijk naar voren dat ik moest kijken welke grafieken het meest doeltreffend kunnen zijn voor mijn data. Aangezien de data die ik onderzocht heb ook redelijk breed is. Ik ga ook van informatieve data naar soms meer open data. 
 
-Hier zie je de eerste opzet van mijn infographic maar de grafieken heb ik meerdere keren gewijzigd om te testen wat duidelijker en effectiever voor mijn data werkt. Hier zie je de vragen die ik eerst gebruik. Ondertussen heb ik hele makkelijke schetsen gemaakt en daarna de volgende tools gebruikt: 
+Hier zie je de eerste opzet van mijn infographic maar de grafieken heb ik meerdere keren gewijzigd om te testen wat duidelijker en effectiever voor mijn data werkt. Hier zie je de vragen die ik eerst gebruik. Ondertussen heb ik hele makkelijke schetsen gemaakt die experimenteel zijn waarin ik kijk naar stressniveau, gezondheid en interessante variabelen. Dit hielp mij goed op weg. 
 
 ![Een aantal schetsen van mijn proces. Ook laat ik zien hoe ik de idee&#xEB;n genereer, en data combineer die ik later exact bereken via excel.](../.gitbook/assets/20201023_125528.jpg)
 
