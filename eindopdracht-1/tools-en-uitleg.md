@@ -17,5 +17,10 @@ Datawrapper: [https://www.datawrapper.de/](https://www.datawrapper.de/)
 Tableau: [https://www.tableau.com/](https://www.tableau.com/)  
 RAW graphs: [https://rawgraphs.io/](https://rawgraphs.io/)
 
-![](../.gitbook/assets/infographic_opzet_jeffrey-van-kampen_-1.png)
+![Een aantal schetsen van mijn proces. Ook laat ik zien hoe ik de idee&#xEB;n genereer, en data combineer bereken ik het via excel](../.gitbook/assets/20201023_125528.jpg)
+
+![](../.gitbook/assets/20201023_124118.jpg) ![](../.gitbook/assets/20201023_124106.jpg)   
+
+
+![De ongebruikte layout opzet om te experimenteren](../.gitbook/assets/infographic_opzet_jeffrey-van-kampen_-1.png)
 
